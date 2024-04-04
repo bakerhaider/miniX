@@ -12,3 +12,4 @@ WEBHOOK_SECRET=
 # UpdatedLinkhub
 # UpdatedLinkhub
 # miniX
+# miniX
